@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ROS Answers
+    about: Get help with individual issues or questions from the ROS community.
+    url: https://answers.ros.org
+  - name: Open Robotics Security
+    about: Please report vulnerabilities to Open Robotics projects or infrastructure here.
+    url: mailto:security@openrobotics.org
