@@ -4,7 +4,9 @@ about: Report an issue with Open Robotics infrastructure
 
 ---
 
+- [ ] I have checked [ROS Answers](https://answers.ros.org) for similar reports and solutions.
 - [ ] I have checked the [ROS Status page](https://status.ros.org) and my issue is not listed there.
+- [ ] I have checked the [open issues](https://github.com/osrf/infrastructure/issues) for similar reports.
 
 ## Problem description
 
