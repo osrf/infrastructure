@@ -16,3 +16,7 @@ Example: When running `apt update` the following output appears
 W: GPG error: http://packages.ros.org/ros/ubuntu focal InRelease: The following signatures were invalid: EXPKEYSIG F42ED6FBAB17C654 Open Robotics <info@osrfoundation.org>
 E: The repository 'http://packages.ros.org/ros/ubuntu focal InRelease' is not signed.
 ```
+
+### Security issues
+
+If you have a security issue to report please do so via email to <security@openrobotics.org>.
