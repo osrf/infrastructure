@@ -23,6 +23,9 @@ Managed projects include
 * [ROS static downloads](http://download.ros.org)
 * [ROS web site](https://www.ros.org)
 * [ROS wiki](https://wiki.ros.org)
+* [ROS Documentation](https://docs.ros.org)
+* [ROS 2 API documentation](https://docs.ros2.org)
+* [ROS package index](https://index.ros.org)
 
 Before reporting issues here please check
 * [ROS Answers](https://answers.ros.org) for help with questions or problems that may be specific to your usage.
