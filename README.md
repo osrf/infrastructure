@@ -6,6 +6,7 @@ Managed projects include
 
 * [Gazebo Answers](https://answers.gazebosim.org)
 * [Gazebo Community](https://community.gazebosim.org)
+* [Gazebo Models web site](http://models.gazebosim.org)
 * [Gazebo web site](https://gazebosim.org)
 * [Ignition web site](https://ignitionrobotics.org)
 * [OSRF Build farm](https://build.osrfoundation.org)
