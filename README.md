@@ -26,6 +26,7 @@ Managed projects include
 * [ROS wiki](https://wiki.ros.org)
 * [ROS Documentation](https://docs.ros.org)
 * [ROS 2 API documentation](https://docs.ros2.org)
+* [ROSCon conference web site](https:/roscon.ros.org)
 * [ROS package index](https://index.ros.org)
 
 Before reporting issues here please check
