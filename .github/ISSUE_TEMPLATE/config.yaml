@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: ROS Answers
-    about: Get help with individual issues or questions from the ROS community.
-    url: https://answers.ros.org
+  - name: Robotics StackExchange
+    about: Get help with individual issues or questions from the Robotics community.
+    url: https://robotics.stackexchange.com/
